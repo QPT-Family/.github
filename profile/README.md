@@ -12,6 +12,6 @@
 <img width="100" alt="图片" src="https://user-images.githubusercontent.com/46156734/148928475-b5b340b7-241d-4ddc-8155-70d98c6384a9.png"> 
 
 ---
-金牌赞助者：[星河云（Stariver）](https://cloud.stariver.org/)
+金牌赞助者：<a href="https://cloud.stariver.org"><img width="100" src="https://user-images.githubusercontent.com/46156734/156889607-ad230ff1-47bf-416a-b7b7-7f4067dcf99a.png"> </a>
 
 [捐赠&致谢](https://github.com/QPT-Family/.github/blob/%E5%BC%80%E5%8F%91%E5%88%86%E6%94%AF/%E6%8D%90%E8%B5%A0%E8%87%B4%E8%B0%A2.MD) | 如有问题，欢迎加入QPT-Family交流群[点击加入QQ群](https://jq.qq.com/?_wv=1027&k=49HB5ymm)！
