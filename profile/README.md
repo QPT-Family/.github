@@ -14,4 +14,4 @@
 ---
 金牌赞助者：<a href="https://cloud.stariver.org"><img width="100" src="https://user-images.githubusercontent.com/46156734/156889607-ad230ff1-47bf-416a-b7b7-7f4067dcf99a.png"> </a>
 
-[捐赠&致谢](https://github.com/QPT-Family/.github/blob/%E5%BC%80%E5%8F%91%E5%88%86%E6%94%AF/%E6%8D%90%E8%B5%A0%E8%87%B4%E8%B0%A2.MD) | [QPT开发进度](https://github.com/orgs/QPT-Family/projects/3/views/3?layout=board) | [参与开发](https://img.shields.io/badge/QQ群-1128826410-9cf?logo=tencent-qq&logoColor=000&logoWidth=15) | 如有问题，欢迎加入QPT-Family交流群[点击加入QQ群](https://jq.qq.com/?_wv=1027&k=49HB5ymm)！
+[捐赠&致谢](https://github.com/QPT-Family/.github/blob/%E5%BC%80%E5%8F%91%E5%88%86%E6%94%AF/%E6%8D%90%E8%B5%A0%E8%87%B4%E8%B0%A2.MD) | [QPT核心框架开发进度](https://github.com/orgs/QPT-Family/projects/3/views/3?layout=board) | [参与开发](https://img.shields.io/badge/QQ群-1128826410-9cf?logo=tencent-qq&logoColor=000&logoWidth=15) | 如有问题，欢迎加入QPT-Family交流群[点击加入QQ群](https://jq.qq.com/?_wv=1027&k=49HB5ymm)！
